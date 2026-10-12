@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Markdown Editor",
+  "description": "A real-time collaborative Markdown editor with simultaneous editing, live cursors, Yjs conflict resolution, offline sync, document management, and a live syntax guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
